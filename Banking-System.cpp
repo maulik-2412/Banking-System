@@ -1,19 +1,4 @@
-/*Features it should have-
-open an account
-balancy enquiry
-deposit
-withdrawal
-close an account
-show all accoubts
-quit
-when open an account-get first name,last name,initial amount---then show first name,last name,account number,balance
-when show all acounts-show al details after account number
-*data should be stored in a file*
-when balance enquiry-ask for account number then show details of acount
-when deposit-ask for acct no. and amount, then show details of acnt
-when withdrawal-ask for acct no. then amount then show all details
 
-*/
 #include<iostream>
 #include<fstream>
 #include<map>
